@@ -23,8 +23,8 @@ let allMusic = [
       src: "music-2"
     },
     {
-      name: "Sugar & Brownies",
-      artist: "Dharia",
+      name: "Shiddat",
+      artist: "Manan Bhardwaj",
       img: "music-3",
       src: "music-3"
     },
